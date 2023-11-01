@@ -16,7 +16,7 @@ function TaskTable({ tasks, toggleTask, showCompleted = false }) {
     <table className="table table-dark table-striped table-bordered border-secondary">
       <thead>
         <tr className="table-primary">
-          <th>tareas</th>
+          <th>tareardas</th>
         </tr>
       </thead>
       <tbody>{tasksTableRows(showCompleted)}</tbody>
